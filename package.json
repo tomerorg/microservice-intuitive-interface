@@ -1,0 +1,13 @@
+{
+  "name": "microservice-intuitive-interface",
+  "version": "1.0.0",
+  "description": "A Javascript microservice implementation using Jest and Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
